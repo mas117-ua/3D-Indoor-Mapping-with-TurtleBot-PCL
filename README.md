@@ -89,7 +89,3 @@ The **Iterative Closest Point** algorithm kicks in using the coarse guess from R
 
 ## 🎥 Demonstrations
 
-Video files showcasing the final mapping process are included in the repository root (`muestaVARP1.webm`, `videofinal.webm`, etc.). The project memory PDF details the full algorithmic analysis and experimentations.
-
----
-👤 **Author**: Alex
