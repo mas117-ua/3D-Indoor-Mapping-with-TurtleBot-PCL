@@ -83,6 +83,10 @@ The **Iterative Closest Point** algorithm kicks in using the coarse guess from R
 2. Launch the node:
    ```bash
    ros2 run get_pointclouds <executable_name>
+
+
+
+   https://github.com/user-attachments/assets/5255ec28-d72e-4a73-81c4-563809767eae
    ```
 3. An interactive menu will prompt you in the terminal to select your combinations of **Keypoints (ISS3D / Harris3D)** and **Descriptors (FPFH / PFH)**. 
 4. Move your robot around using the teleop keys and watch the map incrementally grow in your separated viewer!
